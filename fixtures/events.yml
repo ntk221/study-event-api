@@ -1,0 +1,6 @@
+- id: 1
+  name: "Test Event 1"
+  date: "2023-08-05T15:00:00Z"
+- id: 2
+  name: "Test Event 2"
+  date: "2023-08-06T10:00:00Z"
